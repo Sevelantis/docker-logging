@@ -60,7 +60,7 @@ quit (-v to delete volumes -> manually configure Grafana)
 ```
 docker-compose down -v
 ```
-Clear all, all images (can be pulled back again, but consider using this command if your internet is slow)
+Clear all, all images (can be pulled back again, but consider using this command if your internet stream is slow)
 ```
 docker rmi -f $(docker images -a -q)
 ```
