@@ -17,7 +17,6 @@ services:
         build: ./Application/
         ports:
             - "5000:5000"
-            - "9100:9100"
         volumes:
             - flask-app-vol:/Application
         logging:
