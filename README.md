@@ -29,9 +29,9 @@ curl 127.0.0.1:5000
 ```
 or open browser and type - you will see REST API's possible URLs & functionalities
 ```
-127.0.0.1:5000
+http://127.0.0.1:5000
 ```
-Open Grafana in browser and login with default L/P
+Open Grafana in browser and login with default login&password
 ```
 127.0.0.1:3000
 admin
