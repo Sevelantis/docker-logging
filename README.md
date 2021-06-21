@@ -1,5 +1,5 @@
 # App
-Simple flask REST API dockerised application. Includes generating logs and visualising logs using:
+Simple flask REST API dockerised calculator application. Includes generating logs and visualising logs using:
  - docker, docker-compose
  - python flask
  - fluent-bit
