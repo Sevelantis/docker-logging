@@ -64,11 +64,11 @@ Clear all, all images (can be pulled back again, but consider using this command
 ```
 docker rmi -f $(docker images -a -q)
 ```
-check docker processes
+check docker running containers 
 ```
 docker ps
 ```
-check volumes
+check existing volumes
 ```
 docker volume ls
 ```
