@@ -15,10 +15,10 @@ Simple flask REST API dockerised calculator application. Includes logs generatio
 
 # HOW TO RUN
 ```
-git clone https://github.com/Sevelantis/SO2/
+git clone https://github.com/Sevelantis/docker-logging/
 ```
 ```
-cd SO2/lab7/
+cd docker-logging/
 ```
 ```
 docker-compose up -d --build
